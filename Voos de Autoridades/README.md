@@ -8,9 +8,9 @@ Cada arquivo contém as seguintes colunas:
 
 - `AUTORIDADES APOIADAS`  
 - `ORIGEM`  
-- `"DECOLAGEM (H. LOCAL)"`  
+- `DECOLAGEM (H. LOCAL)`  
 - `DESTINO`  
-- `"POUSO (H. LOCAL)"`  
+- `POUSO (H. LOCAL)`  
 - `MOTIVO`  
 - `PASSAGEIROS`
 
