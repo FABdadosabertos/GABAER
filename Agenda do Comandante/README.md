@@ -19,6 +19,6 @@ Cada arquivo possui registros organizados por data e pode conter:
 ---
 
 Para consultar a agenda atualizada, acesse diretamente:  
-[🔗 Agenda do Comandante](https://eagendas.cgu.gov.br/?_token=TwvPZJCC3cT6RdwhAAmUz9jjKGBxxcKJXTHuRhZ0&filtro_orgao=1015&filtro_cargo=COMANDANTE+DA+AERON%C3%81UTICA&filtro_servidor=14672#divcalendar)
+[🔗 Agenda do Comandante](https://eagendas.cgu.gov.br/?filtro_orgao=1015&filtro_cargo=COMANDANTE+DA+AERON%C3%81UTICA&filtro_servidor=14672#divcalendar)
 
 
