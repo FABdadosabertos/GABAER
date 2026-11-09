@@ -1,319 +1,326 @@
-ORDEM DO M…RITO AERON¡UTICO;;;;;;;
-;;;;;;;
-INSÕGNIAS - INSTITUI«’ES;;;;;;;
-;;;;;;;
-(Atualizada atÈ Novembro de 2024);;;;;;;
-;;;;;;;
-NR;SIGLA_ORG;DESCRI«√O;INSTITUIC√O;CATEG;DT_INSIG;DT_DOU;REG
-1;AFA;Academia da ForÁa AÈrea;Aeron·utica;Estandarte;08/03/1946;;134
-2;AMAN;Academia Militar das Agulhas Negras;ExÈrcito;Estandarte;02/10/1978;03/10/1978;3121
-3;ANE;Academia Nacional de Engenharia;Outros;Estandarte;01/10/2003;02/10/2003;
-4;;AÈro-Club de France;Outros;;07/06/2006;08/06/2006;
-5;AT-1;AerÛdromo de Tr‚nsito n∫ 1;ForÁa AÈrea Portuguesa;Estandarte;23/10/2013;23/10/2013;12110
-6;AirU-EUA;Air University dos Estados Unidos da AmÈrica;USAF;Bandeira;29/09/1966;30/09/1966;1426
-7;;Andrews Air Force Base;Outros;Estandarte;26/09/2005;27/09/2005;9484
-8;ASPAER;Assessoria Parlamentar e de RelaÁıes Institucionais do Comandante da Aeron·utica;Aeron·utica;Estandarte;21/10/2022;21/10/2022;201
-9;ADESG;AssociaÁ„o dos Diplomados da Escola Superior de Guerra;Outros;Estandarte;23/09/1997;24/09/1997;7128
-10;BAAN;Base AÈrea de An·polis;Aeron·utica;Bandeira;02/10/1978;03/10/1978;3119
-11;BABE;Base AÈrea de BelÈm;Aeron·utica;Estandarte;20/09/1984;25/09/1984;4471
-12;BABV;Base AÈrea de Boa Vista;Aeron·utica;Estandarte;20/09/2006;21/09/2006;9498
-13;BABR;Base AÈrea de BrasÌlia;Aeron·utica;Estandarte;12/09/1990;11/10/1990;5818
-14;BACG;Base AÈrea de Campo Grande;Aeron·utica;Estandarte;20/09/1984;25/09/1984;4472
-15;BACO;Base AÈrea de Canoas;Aeron·utica;Estandarte;20/09/1983;27/09/1983;4152
-16;BAFL;Base AÈrea de FlorianÛpolis;Aeron·utica;Estandarte;20/09/1984;25/09/1984;4473
-17;BAFZ;Base AÈrea de Fortaleza;Aeron·utica;Estandarte;20/09/1985;23/09/1985;4720
-18;BAMN;Base AÈrea de Manaus;Aeron·utica;Estandarte;01/10/2003;02/10/2003;8981
-19;BANT;Base AÈrea de Natal;Aeron·utica;Estandarte;05/10/2021;06/10/2021;14889
-20;BAPV;Base AÈrea de Porto Velho;Aeron·utica;Estandarte;17/05/1984;;
-21;BARF;Base AÈrea de Recife;Aeron·utica;Estandarte;20/09/1984;25/09/1984;4474
-22;BASV;Base AÈrea de Salvador;Aeron·utica;Estandarte;01/09/1987;02/09/1987;5044
-23;BASC;Base AÈrea de Santa Cruz;Aeron·utica;Bandeira;15/09/1982;01/10/1982;3909
-24;BASM;Base AÈrea de Santa Maria;Aeron·utica;Estandarte;08/09/1989;22/09/1989;5529
-25;BAST;Base AÈrea de Santos;Aeron·utica;Estandarte;18/09/1991;25/09/1991;5849
-26;BASP;Base AÈrea de S„o Paulo;Aeron·utica;Estandarte;16/09/1986;22/09/1986;4812
-27;BAGL;Base AÈrea do Gale„o;Aeron·utica;Bandeira;15/10/1963;16/10/1963;1191
-28;BAAF;Base AÈrea dos Afonsos;Aeron·utica;Bandeira;15/10/1963;16/10/1963;1192
-29;BAENSPA;Base AÈrea Naval de S„o Pedro da Aldeia;Marinha;Estandarte;14/10/1992;15/10/1992;6223
-30;Ba1;Base AÈrea N∫ 1 (Ba1);Exterior;Estandarte;01/10/1939;13/10/2016;13158
-31;Ba Adm Ap/ 1 RM;Base de AdministraÁ„o e Apoio da 1™ Regi„o Militar;ExÈrcito;Estandarte;02/10/2017;03/10/2017;13491
-32;BGP;Batalh„o da Guarda Presidencial de BrasÌlia;ExÈrcito;Bandeira;18/10/1961;20/10/1961;813
-33;11∞ RI;Batalh„o de Infantaria de Montanha - Regimento Tiradentes;ExÈrcito;Estandarte;01/10/2003;02/10/2003;8986
-34;1∞ BIM;Batalh„o de Infantaria Motorizado - Regimento Sampaio;ExÈrcito;Estandarte;01/10/2003;02/10/2003;8984
-35;Bibl-Ex;Biblioteca do ExÈrcito;ExÈrcito;Bandeira;25/11/1980;04/12/1980;3677
-36;BdaAT-Ex;Brigada Aero-Terrestre;ExÈrcito;Bandeira;19/10/1970;19/10/1970;1992
-37;BdaAv-Ex;Brigada de AviaÁ„o do ExÈrcito;ExÈrcito;Estandarte;14/10/1992;15/10/1992;6224
-38;CGABEG;Casa GerontolÛgica de Aeron·utica Brigadeiro Eduardo Gomes;Aeron·utica;Estandarte;26/09/2005;27/09/2005;9473
-39;CATRE;Centro de AplicaÁıes e Recompletamento de Equipagens;Aeron·utica;Estandarte;20/09/1983;27/09/1983;4151
-40;CECOMSAER;Centro de ComunicaÁ„o Social da Aeron·utica;Aeron·utica;Estandarte;30/09/2010;01/10/2010;11066
-41;CGNA;Centro de Gerenciamento da NavegaÁ„o AÈrea;Aeron·utica;Estandarte;13/10/2020;14/10/2020;14573
-42;CIAW;Centro de InstruÁ„o Almirante Wandenkolk;Marinha;Estandarte;17/10/2002;18/10/2002;8599
-43;CIAV;Centro de InstruÁ„o de AviaÁ„o do ExÈrcito;ExÈrcito;;20/09/2006;21/09/2006;9501
-44;CIAAR;Centro de InstruÁ„o e AdaptaÁ„o da Aeron·utica;Aeron·utica;Estandarte;06/07/2005;22/10/2014;12476
-45;CIAAN;Centro de InstruÁ„o e Adestramento Aeronaval;Marinha;Estandarte;20/09/2006;21/09/2006;9500
-46;CIPQD-Ex;Centro de InstruÁ„o P·ra-Quedista Gen Penha Brasil;ExÈrcito;Estandarte;20/09/1985;23/09/1985;4722
-47;CENIPA;Centro de InvestigaÁ„o e PrevenÁ„o de Acidentes Aeron·uticos;Aeron·utica;Estandarte;01/10/2003;02/10/2003;8982
-48;CLBI;Centro de LanÁamento da Barreira do Inferno;Aeron·utica;Estandarte;17/03/1972;21/10/2015;12833
-49;CEMAL;Centro de Medicina Aeroespacial;Aeron·utica;Estandarte;26/09/2001;27/09/2001;8364
-50;CPORAER-SJ;Centro de PreparaÁ„o de Oficiais da Reserva da Aeron·utica;Aeron·utica;Estandarte;20/08/1971;20/09/2019;14265
-51;CELOG;Centro LogÌstico da Aeron·utica;Aeron·utica;Estandarte;04/10/2007;05/10/2007;9999
-52;CTA;Centro TÈcnico Aeroespacial;Aeron·utica;Estandarte;20/09/1983;27/09/1983;4150
-53;CESUPA;Centro Universit·rio do Par·;Outros;Bandeira;01/10/1986;16/10/2018;13504
-54;PISA;Cidade de Pisa;Rep˙blica Italiana;Bandeira;11/09/1996;12/09/1996;7116
-55;CID;ColÈgio Interamericano de Defesa;Exterior;Estandarte;02/10/2017;03/10/2017;13488
-56;CMAv-BO;ColÈgio Militar de AviaÁ„o da ForÁa AÈrea Boliviana;ForÁa AÈ. Boliviana;Estandarte;08/06/1973;11/06/1973;2214
-57;CMB;ColÈgio Militar de BrasÌlia;ExÈrcito;Estandarte;07/10/1994;13/10/1994;
-58;CMFZ;ColÈgio Militar de Fortaleza;ExÈrcito;Estandarte;13/10/1969;23/10/1969;1890
-59;CMPA;ColÈgio Militar de Porto Alegre;ExÈrcito;Estandarte;09/10/1972;10/10/1972;2207
-60;CMRJ;ColÈgio Militar do Rio de Janeiro;ExÈrcito;Estandarte;14/10/1958;20/10/1958;584
-61;COMAT;Comando Aerot·tico;Aeron·utica;Bandeira;15/09/1982;01/10/1982;3908
-62;MAER;Comando da Aeron·utica;Aeron·utica;Estandarte;11/09/1996;12/09/1996;7119
-63;CFAe-Mar;Comando da ForÁa Aeronaval;Marinha;Estandarte;20/09/1985;23/09/1985;4721
-64;CMDO F. CT;Comando da ForÁa de Contra-Torpedeiros;Marinha;Estandarte;14/10/1992;15/10/1992;6265
-65;COMDO FRAG;Comando da ForÁa de Fragatas;Marinha;Estandarte;21/09/1995;22/09/1995;
-66;COMFFE;Comando da ForÁa de Fuzileiros da Esquadra;Marinha;Estandarte;19/10/2012;22/10/2012;11795
-67;5™ DE;Comando da Quinta Divis„o do ExÈrcito;ExÈrcito;Estandarte;13/10/2020;14/10/2020;14572
-68;COMDABRA;Comando de Defesa Aeroespacial Brasileiro;Aeron·utica;Estandarte;26/09/2001;27/09/2001;8363
-69;COM;Comando de OperaÁıes Navais;Marinha;Estandarte;26/09/2000;27/09/2000;
-70;COTer;Comando de OperaÁıes Terrestres;ExÈrcito;Estandarte;06/09/2004;08/09/2004;9231
-71;1∞ DN-CMD;Comando do Primeiro Distrito Naval;Marinha;Estandarte;04/10/2007;05/10/2007;10002
-72;COM4DN;Comando do Quarto Distrito Naval;Marinha;Estandarte;19/11/1945;16/10/2018;13503
-73;COMTA;Comando do Transporte AÈreo;Aeron·utica;Bandeira;09/10/1956;11/10/1956;399
-74;COLOG;Comando LogÌstico;ExÈrcito;Estandarte;21/10/2022;21/10/2022;201
-75;CMA;Comando Militar da AmazÙnia;ExÈrcito;Estandarte;07/10/1994;13/10/1994;
-76;CML;Comando Militar do Leste;ExÈrcito;Estandarte;29/09/2009;30/09/2009;10645
-77;CMNE ;Comando Militar do Nordeste;ExÈrcito;Estandarte;21/09/1995;22/09/1995;
-78;CMN;Comando Militar do Norte;ExÈrcito;Estandarte;26/06/2013;21/09/2019;14264
-79;CMO;Comando Militar do Oeste;ExÈrcito;Estandarte;19/10/2012;22/10/2012;11796
-80;CMP;Comando Militar do Planalto;ExÈrcito;Bandeira;12/09/1990;11/10/1990;5815
-81;CMSE;Comando Militar do Sudeste;ExÈrcito;Estandarte;24/07/1946;16/10/2018;13502
-82;CMS;Comando Militar do Sul ;ExÈrcito;Estandarte;25/09/2008;26/09/2008;10013
-83;CNB;Comando Naval de BrasÌlia;Marinha;Estandarte;12/09/1990;11/10/1990;
-84;CCEsq-Mar;Comando-em-Chefe da Esquadra;Marinha;Estandarte;01/09/1987;02/09/1987;5047
-85;CGPM-SP;Comando-Geral da PolÌcia Militar do Estado de S„o Paulo;PolÌcia Militar;Estandarte;;22/10/2014;12481
-86;COMGAP;Comando-Geral de Apoio;Aeron·utica;Estandarte;16/09/1998;17/09/1998;7567
-87;COMGAR;Comando-Geral do Ar;Aeron·utica;Estandarte;20/09/1984;25/09/1984;4470
-88;COMGEP;Comando-Geral do Pessoal;Aeron·utica;Estandarte;23/09/1993;15/10/1993;
-89;CABW;Comiss„o Aeron·utica Brasileira em Washington;Aeron·utica;Estandarte;29/09/2009;30/09/2009;10646
-90;CABE;Comiss„o Aeron·utica Brasileira na Europa;Aeron·utica;Estandarte;30/09/2010;01/10/2010;11067
-91;COPAC;Comiss„o Coordenadora do Programa Aeronave de Combate;Aeron·utica;Estandarte;19/10/2012;22/10/2012;11797
-92;COMARA;Comiss„o de Aeroportos da Regi„o AmazÙnica;Aeron·utica;Estandarte;17/10/2002;18/10/2002;8590
-93;CDA;Comiss„o de Desportos da Aeron·utica;Aeron·utica;Estandarte;02/10/2017;03/10/2017;13489
-94;CISCEA;Comiss„o de ImplantaÁ„o do Sistema de Controle do EspaÁo AÈreo;Aeron·utica;Estandarte;02/10/2017;03/10/2017;13487
-95;CPO;Comiss„o de PromoÁıes de Oficiais;Aeron·utica;Estandarte;17/10/2002;18/10/2002;8591
-96;COJAER;Consultoria JurÌdica do MinistÈrio da Aeron·utica;Aeron·utica;Estandarte;23/09/1997;24/09/1997;7123
-97;CBRJ;Corpo de Bombeiros do Distrito Federal (RJ);Bombeiros;Bandeira;09/10/1956;11/10/1956;397
-98;CBM-MT;Corpo de Bombeiros Militar (MT);CBM;Estandarte;04/10/2007;05/10/2007;10005
-99;CBMPM-SP;Corpo de Bombeiros Militar da PM (SP);CBM;Estandarte;04/10/2007;05/10/2007;10004
-100;CBM-DF;Corpo de Bombeiros Militar do Distrito Federal (BR);Bombeiros;Estandarte;01/09/1987;02/09/1987;5173
-101;CFN;Corpo de Fuzileiros Navais;Marinha;Bandeira;11/10/1962;12/10/1962;901
-102;10™ CiaECmb;DÈcima Companhia de Engenharia de Combate;ExÈrcito;Estandarte;01/10/2003;02/10/2003;8985
-103;12™ Bda Inf (AMV);DÈcima Segunda Brigada de Infantaria Leve (AeromÛvel);ExÈrcito;Estandarte;26/09/2005;27/09/2005;9482
-104;19∞ BC;DÈcimo Nono Batalh„o de CaÁadores;ExÈrcito;Estandarte;17/10/2002;18/10/2002;8597
-105;11∫ GAAAe;DÈcimo Primeiro Grupo de Artilharia AntiaÈrea;ExÈrcito;Estandarte;16/09/1998;17/09/1998;7569
-106;11∞ RCAV;DÈcimo Primeiro Regimento de Cavalaria;ExÈrcito;Bandeira;15/10/1963;16/10/1963;1193
-107;DAC;Departamento de AviaÁ„o Civil;Aeron·utica;Estandarte;11/09/1996;12/09/1996;7117
-108;DCT;DEPARTAMENTO DE CI NCIA E TECNOLOGIA;ExÈrcito;Estandarte;01/06/2005;;
-109;DECEA;Departamento de Controle do EspaÁo AÈreo;Aeron·utica;Estandarte;26/09/2005;27/09/2005;9472
-110;DECEX;Departamento de EducaÁ„o e Cultura do ExÈrcito;ExÈrcito;Estandarte;21/10/2011;24/10/2011;
-111;DEPENS;Departamento de Ensino da Aeron·utica;Aeron·utica;Estandarte;05/09/1988;20/09/1988;5308
-112;DEPED;Departamento de Pesquisas e Desenvolvimento;Aeron·utica;Estandarte;23/09/1997;24/09/1997;7126
-113;DCI;DepÛsito Central de IntendÍncia;Aeron·utica;Estandarte;16/09/1986;22/09/1986;4937
-114;DARJ;DepÛsito de Aeron·utica do Rio de Janeiro;Aeron·utica;Estandarte;16/09/1986;22/09/1986;4813
-115;DTCEA SM;Destacamento de Controle do EspaÁo AÈreo de Santa Maria;Aeron·utica;Estandarte;21/10/2011;24/10/2011;
-116;DIRAP;Diretoria de AdministraÁ„o do Pessoal;Aeron·utica;Estandarte;18/09/1991;25/09/1991;
-117;DIRAERMAR;Diretoria de Aeron·utica da Marinha;Marinha;Estandarte;06/09/2004;08/09/2004;9232
-118;DEPV;Diretoria de EletrÙnica e ProteÁ„o ao VÙo;Aeron·utica;Estandarte;14/10/1992;15/10/1992;6264
-119;DIRENG;Diretoria de Engenharia da Aeron·utica;Aeron·utica;Bandeira;18/08/1991;25/09/1991;
-120;DIRINT;Diretoria de IntendÍncia da Aeron·utica;Aeron·utica;Estandarte;21/09/1995;22/09/1995;
-121;DIRMA;Diretoria de Material da Aeron·utica;Aeron·utica;Bandeira;18/09/1991;25/09/1991;
-122;DIRSA;Diretoria de Sa˙de da Aeron·utica;Aeron·utica;Estandarte;07/10/1994;13/10/1994;
-123;DSM;Diretoria de Sa˙de da Marinha;Marinha;Estandarte;30/09/2010;01/10/2010;11062
-124;DGDNTM;Diretoria-Geral de Desenvolvimento Nuclear e TecnolÛgico da Marinha;Marinha;Estandarte;21/10/2022;21/10/2022;201
-125;DGMM;Diretoria-Geral do Material da Marinha;Marinha;Estandarte;18/06/1968;22/09/2019;14263
-126;DGN;DIRETORIA-GERAL DE NAVEGA«√O;Marinha;Estandarte;18/06/1968;;
-127;DGPM;Diretoria-Geral do Pessoal da Marinha;Marinha;Estandarte;13/10/2020;14/10/2020;14571
-128;DLR;DLR - Centro Aeroespacial Alem„o;Governo da Alemanha;Bandeira;28/10/2013;28/10/2013;12111
-129;EAer-Ex FR;Escola de Aeron·utica do ExÈrcito do Ar FrancÍs;ExÈrcito FrancÍs;Bandeira;22/04/1949;23/04/1949;104
-130;EAer-UR;Escola de Aeron·utica do Uruguai;ForÁa AÈrea Uruguaia;Bandeira;03/09/1948;;70
-131;EAOAR;Escola de AperfeiÁoamento de Oficiais da Aer.;Aeron·utica;Estandarte;20/10/1967;20/10/1967;1654
-132;EACA;Escola de Artilharia de Costa e AntiaÈrea;ExÈrcito;Estandarte;05/09/1988;20/09/1988;5439
-133;ECEMAR;Escola de Comando e Estado-Maior da Aeron·utica;Aeron·utica;Bandeira;09/10/1956;11/10/1956;398
-134;EEAR;Escola de Especialistas de Aeron·utica;Aeron·utica;Estandarte;12/10/1955;15/10/1955;365
-135;ECEME;Escola de Estado-Maior do ExÈrcito;ExÈrcito;Estandarte;25/04/1949;06/05/1949;133
-136;EGN;Escola de Guerra Naval;Marinha;Bandeira;09/10/1956;11/10/1956;396
-137;EIEsp-Ex;Escola de InstruÁ„o Especializada do ExÈrcito;ExÈrcito;Estandarte;16/09/1986;22/09/1986;4814
-138;EOEIG;Escola de Oficiais-Esp. e de Infantaria de Guarda;Aeron·utica;Estandarte;14/10/1958;20/10/1958;583
-139;ESA;Escola de Sargentos das Armas;ExÈrcito;Estandarte;23/09/1997;24/09/1997;7127
-140;EMAv-CO;"Escola Militar de Av ""Marco Fidel Suarez"" ColÙmbia";ColÙmbia;Estandarte;03/03/1970;04/03/1970;1908
-141;EN;Escola Naval;Marinha;Estandarte;02/10/1978;03/10/1978;3120
-142;EPCAR;Escola PreparatÛria de Cadetes do Ar;Aeron·utica;Estandarte;14/10/1958;20/10/1958;582
-143;ESD;Escola Superior de Defesa;MinistÈrio da Defesa;Estandarte;21/10/2022;21/10/2022;201
-144;ESG;Escola Superior de Guerra;ExÈrcito;Bandeira;16/10/1959;21/10/1959;635
-145;EAS;Esquadr„o Aeroterrestre de Salvamento;Aeron·utica;Estandarte;04/10/2007;05/10/2007;10001
-146;EDA;Esquadr„o de DemonstraÁ„o AÈrea;Aeron·utica;Estandarte;06/09/2004;08/09/2004;9233
-147;EMCFA;Estado-Maior Conjunto das ForÁas Armadas;MinistÈrio da Defesa;Estandarte;27/10/2013;27/10/2013;12105
-148;EMAER;Estado-Maior da Aeron·utica;Aeron·utica;Bandeira;19/10/1970;19/10/1970;1910
-149;EMA;Estado-Maior da Armada;Marinha;Estandarte;07/10/1994;13/10/1994;
-150;EMFA;Estado-Maior das ForÁas Armadas;EMFA;Bandeira;20/09/1983;27/09/1983;4149
-151;EME;Estado-Maior do ExÈrcito;ExÈrcito;Estandarte;30/09/2010;01/10/2010;11063
-152;FAYS;Fazenda da Aeron·utica de Pirassununga;Aeron·utica;Estandarte;12/11/1948;16/10/2018;13505
-153;FAP;ForÁa AÈrea Paraguaia;Exterior;Estandarte;06/09/2004;08/09/2004;9234
-154;FundOs;FundaÁ„o OsÛrio;ExÈrcito;Estandarte;19/10/1965;20/10/1965;1419
-155;GSI-PR;Gabinete de SeguranÁa Institucional da PresidÍncia da Rep˙blica;PresidÍncia;Estandarte;21/10/2022;21/10/2022;201
-156;GABAER;Gabinete do Ministro da Aeron·utica;Aeron·utica;Estandarte;21/09/1995;22/09/1995;
-157;GONFAL√O;Gonfal„o da ForÁa Expedicion·ria Brasileira na It·lia;Exterior;Bandeira;30/09/2010;01/10/2010;11065
-158;GONFAL√O;Gonfal„o do Primeiro Grupo de AviaÁ„o de CaÁa (1∫ Gavca);Exterior;Estandarte;18/12/1943;13/10/2016;13157
-159;GAP BR;Grupamento de Apoio de BrasÌlia;Aeron·utica;Estandarte;25/09/2008;26/09/2008;10015
-160;GptFNNA;Grupamento de Fuzileiros Navais de Natal;Marinha;Estandarte;01/10/2003;02/10/2003;8987
-161;GTE;Grupo de Transporte Especial;Aeron·utica;Estandarte;14/10/1992;15/10/1992;6226
-162;GEIV;Grupo Especial de InspeÁ„o em VÙo;Aeron·utica;Estandarte;28/09/1999;29/09/1999;7759
-163;HCA;Hospital Central da Aeron·utica;Aeron·utica;Estandarte;26/09/2005;27/09/2005;9474
-164;HFA;HOSPITAL DAS FOR«AS ARMADAS;ExÈrcito;Estandarte;15/12/2017;;
-165;HABE;Hospital de Aeron·utica de BelÈm;Aeron·utica;Estandarte;21/09/1995;22/09/1995;
-166;HACO;Hospital de Aeron·utica de Canoas;Aeron·utica;Estandarte;20/09/1985;23/09/1985;4719
-167;HARF;Hospital de Aeron·utica de Recife;Aeron·utica;Estandarte;11/09/1996;12/09/1996;7118
-168;HASP;Hospital de Aeron·utica de S„o Paulo;Aeron·utica;Estandarte;26/09/2005;27/09/2005;9475
-169;HAAF;Hospital de Aeron·utica dos Afonsos;Aeron·utica;Estandarte;21/09/1995;22/09/1995;
-170;HFAG;Hospital de ForÁa AÈrea do Gale„o;Aeron·utica;Estandarte;26/09/2005;27/09/2005;9485
-171;ICRJ;Iate Clube do Rio de Janeiro;Outros;Bandeira;25/03/1920;23/09/2019;14268
-172;IAE;Instituto de Aeron·utica e EspaÁo;Aeron·utica;Estandarte;25/10/2013;25/10/2013;12108
-173;ILA;Instituto de LogÌstica da Aeron·utica;Aeron·utica;Estandarte;02/10/2017;03/10/2017;13490
-174;IPA;INSTITUTO DE PSICOLOGIA DA AERON¡UTICA;Aeron·utica;Estandarte;25/11/1988;;
-175;INCAER;Instituto HistÛrico-Cultural da Aeron·utica;Aeron·utica;Estandarte;16/02/1996;21/10/2015;12830
-176;IME;Instituto Militar de Engenharia;ExÈrcito;Estandarte;12/09/1990;11/10/1990;5817
-177;ITA;Instituto TecnolÛgico de Aeron·utica;Aeron·utica;Estandarte;21/06/2007;22/10/2014;12478
-178;JID;Junta Interamericana de Defesa;Exterior;Estandarte;30/03/1942;13/10/2016;13107
-179;LAQFA;LaboratÛrio QuÌmico-FarmacÍutico da Aeron·utica;Aeron·utica;Estandarte;26/09/2005;27/09/2005;9476
-180;LDN;Liga da Defesa Nacional;Outros;Estandarte;04/10/2007;05/10/2007;10006
-181;MINDEF;MinistÈrio da Defesa;Outros;Bandeira;20/09/2006;21/09/2006;9496
-182;MMA;MinistÈrio da Marinha;Marinha;Estandarte;11/09/1996;12/09/1996;7120
-183;MEX;MinistÈrio do ExÈrcito;ExÈrcito;Estandarte;11/09/1996;12/09/1996;7121
-184;MisTir;Miss„o TiriÛs;Civil/Religiosa;Bandeira;14/10/1992;15/10/1992;6227
-185;;MusÈe de L'Air et de L'Espace;Outros;;07/06/2006;08/06/2006;
-186;MUSAL;Museu Aeroespacial;Aeron·utica;Estandarte;17/10/2002;18/10/2002;8592
-187;NAelMG-Mar;Navio AerÛdromo Minas Gerais;Marinha;Bandeira;19/10/1970;19/10/1970;1991
-188;NAESPAULO;Navio-AerÛdromo S„o Paulo;Marinha;Estandarte;26/09/2005;27/09/2005;9479
-189;9∫ Btl Eng Cmb;Nono Batalh„o de Engenharia de Combate - Batalh„o Carlos Camis„o;ExÈrcito;Estandarte;30/09/2010;01/10/2010;11064
-190;9∫ DN;Nono Distrito Naval;Marinha;Estandarte;05/10/2021;06/10/2021;14887
-191;NUHFAB;N˙cleo do Hospital de ForÁa AÈrea de BrasÌlia;Aeron·utica;Estandarte;26/09/2005;27/09/2005;9477
-192;OABR;OdontoclÌnica de Aeron·utica de BrasÌlia;Aeron·utica;Estandarte;26/09/2005;27/09/2005;9478
-193;8∫ GAC Pqdt;Oitavo Grupo de Artilharia de Campanha Paraquedista;ExÈrcito;Estandarte;29/10/2013;29/10/2013;12107
-194;PIPAR;Pagadoria de Inativos e Pensionistas da Aeron·utica;Aeron·utica;Estandarte;19/10/2012;22/10/2012;11799
-195;PAMA GL;Parque de Material Aero·utico do Gale„o;Aeron·utica;Estandarte;09/09/2004;21/10/2015;12831
-196;PAMA LS;Parque de Material Aeron·utico de Lagoa Santa;Aeron·utica;Estandarte;01/09/1987;02/09/1987;5045
-197;PAMA RF;Parque de Material Aeron·utico de Recife;Aeron·utica;Estandarte;12/09/1990;11/10/1990;5819
-198;PAMA SP;Parque de Material Aeron·utico de S„o Paulo;Aeron·utica;Estandarte;08/09/1989;22/09/1989;5528
-199;PAMA AF;Parque de Material Aeron·utico dos Afonsos;Aeron·utica;Estandarte;20/09/1985;23/09/1985;4717
-200;PM-DF;PolÌcia Militar do Distrito Federal;PolÌcia Militar;Estandarte;23/09/1993;15/10/1993;
-201;PME-MG;PolÌcia Militar do Estado de Minas Gerais ;PolÌcia Militar;Estandarte;29/09/2009;30/09/2009;10650
-202;PABR;Prefeitura de Aeron·utica de BrasÌlia ;Aeron·utica;Estandarte;25/09/2008;26/09/2008;10017
-203;PANT;Prefeitura de Aeron·utica de Natal;Aeron·utica;Estandarte;21/10/2022;21/10/2022;201
-204;PARF;Prefeitura de Aeron·utica de Recife;Aeron·utica;Estandarte;26/06/1946;13/10/2016;13156
-205;PASP;Prefeitura de Aeron·utica de S„o Paulo;Aeron·utica;Estandarte;21/10/2022;21/10/2022;201
-206;PAGL;Prefeitura de Aeron·utica do Gale„o;Aeron·utica;Estandarte;14/03/1951;24/09/2019;14267
-207;1™ ALADA;Primeira Ala de Defesa AÈrea;Aeron·utica;Bandeira;02/10/1978;03/10/1978;
-208;1™ BAAAE;Primeira Brigada de Artilharia Anti AÈrea;ExÈrcito;Estandarte;14/10/1992;15/10/1992;6225
-209;I FAE;Primeira ForÁa AÈrea;Aeron·utica;Estandarte;03/07/2006;22/10/2014;12477
-210;1∫ B Com Sl;Primeiro Batalh„o de ComunicaÁ„o de Selva;ExÈrcito;Estandarte;;22/10/2014;12480
-211;1∞ BEngC-Ex;Primeiro Batalh„o de Engenharia de Combate;ExÈrcito;Bandeira;23/10/1963;23/10/1963;1199
-212;1∞ BFE;Primeiro Batalh„o de ForÁas Especiais;ExÈrcito;Estandarte;04/10/2007;05/10/2007;10003
-213;1 BFr-Ex;Primeiro Batalh„o de Fronteiras;ExÈrcito;Bandeira;15/10/1963;16/10/1963;1194
-214;CINDACTA 1;Primeiro Centro Integrado de Defesa AÈrea e Controle de Trafego AÈreo;Aeron·utica;;23/09/1993;15/10/1993;
-215;I COMAR;Primeiro Comando AÈreo Regional;Aeron·utica;Estandarte;18/09/1991;25/09/1991;
-216;ESQDVF-1;Primeiro Esquadr„o de Aviıes de InterceptaÁ„o e Ataque;Marinha;Estandarte;26/09/2005;27/09/2005;9480
-217;1∞ Esqd C Mec;Primeiro Esquadr„o de Cavalaria Leve - Esquadr„o Tenente Amaro;ExÈrcito;Estandarte;26/09/2005;27/09/2005;9481
-218;1∫ ESQDHS-1;Primeiro Esquadr„o de HelicÛpteros Anti-Submarinos;Marinha;Bandeira;25/09/2008;26/09/2008;10016
-219;ESQDHU-1;Primeiro Esquadr„o de HelicÛpteros de Emprego Geral;Marinha;Estandarte;26/10/2013;26/10/2013;12106
-220;ESQDHA-1;Primeiro Esquadr„o de HelicÛpteros de Esclarecimento e Ataque;Marinha;Estandarte;29/09/2009;30/09/2009;10648
-221;EsqdHI-1;Primeiro Esquadr„o de HelicÛpteros de InstruÁ„o;Marinha;Estandarte;;22/10/2014;12479
-222;1∞ ETA;Primeiro Esquadr„o de Transporte AÈreo;Aeron·utica;Estandarte;23/09/1997;24/09/1997;7125
-223;1∞/10∞ GAV;Primeiro Esquadr„o do DÈcimo Grupo de AviaÁ„o;Aeron·utica;;23/09/1993;15/10/1993;
-224;1∞/14∞ GAV;Primeiro Esquadr„o do DÈcimo Quarto Grupo de AviaÁ„o;Aeron·utica;Estandarte;15/09/1982;01/10/1982;3910
-225;1∞/15∞ GAV;Primeiro Esquadr„o do DÈcimo Quinto Grupo de AviaÁ„o;Aeron·utica;Estandarte;11/09/1996;12/09/1996;7122
-226;1∞/16∞ GAV;Primeiro Esquadr„o do DÈcimo Sexto Grupo de AviaÁ„o;Aeron·utica;Estandarte;17/10/2002;18/10/2002;8594
-227;1∞/8∞ GAv;Primeiro Esquadr„o do Oitavo Grupo de AviaÁ„o;Aeron·utica;Estandarte;06/09/2004;08/09/2004;9229
-228;1∫/1∫ GCC;Primeiro Esquadr„o do Primeiro Grupo de ComunicaÁ„o e Controle;Aeron·utica;Estandarte;19/12/1950;13/10/2016;13161
-229;1∞/1∞ GT;Primeiro Esquadr„o do Primeiro Grupo de Transporte;Aeron·utica;Estandarte;16/09/1998;17/09/1998;7568
-230;1∞/4∞ GAV;Primeiro Esquadr„o do Quarto Grupo de AviaÁ„o;Aeron·utica;Estandarte;07/10/1994;13/10/1994;
-231;1∫/5∫ Gav;Primeiro Esquadr„o do Quinto Grupo de AviaÁ„o;Aeron·utica;Estandarte;05/10/1944;16/10/2018;13508
-232;1∫/2∫ GT;Primeiro Esquadr„o do Segundo Grupo de Transporte;Aeron·utica;;28/09/1999;29/09/1999;7760
-233;1∫/7∫ GAv;Primeiro Esquadr„o do SÈtimo Grupo de AviaÁ„o;Aeron·utica;Estandarte;26/09/2000;27/09/2000;
-234;1∞/6∞ GAV;Primeiro Esquadr„o do Sexto Grupo de AviaÁ„o;Aeron·utica;Estandarte;05/09/1988;20/09/1988;5438
-235;1∫ GAAA;Primeiro Grupo de Artilharia AntiaÈrea;ExÈrcito;Estandarte;26/09/2000;27/09/2000;
-236;1∞ GAVCA;Primeiro Grupo de AviaÁ„o de CaÁa;Aeron·utica;Bandeira;09/10/1956;11/10/1956;400
-237;GAVEMB1;Primeiro Grupo de AviaÁ„o Embarcada;Aeron·utica;Estandarte;15/09/1981;22/09/1981;3805
-238;1∫ GCC;Primeiro Grupo de ComunicaÁ„o e Controle;Aeron·utica;Estandarte;19/10/2012;22/10/2012;11798
-239;1∞ GDA;Primeiro Grupo de Defesa AÈrea;Aeron·utica;Estandarte;07/10/1994;13/10/1994;
-240;1∫ GTT;Primeiro Grupo de Transporte de Tropa;Aeron·utica;Estandarte;22/01/1958;25/09/2019;14266
-241;QGPM-GB;Quartel General da PolÌcia Militar da Guanabara;PolÌcia Militar;Bandeira;19/10/1970;19/10/1970;1993
-242;IV COMAR;Quarto Comando AÈreo Regional;Aeron·utica;;23/09/1993;15/10/1993;
-243;4∫/1∫ GCC;Quarto Esquadr„o do Primeiro Grupo de ComunicaÁıes e Controle;Aeron·utica;Estandarte;29/09/2009;30/09/2009;10649
-244;4∫/7∫ GAV;Quarto Esquadr„o do SÈtimo Grupo de AviaÁ„o;Aeron·utica;Estandarte;30/09/2010;01/10/2010;11068
-245;V FATA;Quinta ForÁa AÈrea de Transporte AÈreo;Aeron·utica;Estandarte;20/09/1985;23/09/1985;4718
-246;V COMAR;Quinto Comando AÈreo Regional;Aeron·utica;Estandarte;21/09/1995;22/09/1995;
-247;EsqdHU-5;Quinto Esquadr„o de HelicÛpteros de Emprego Geral;Marinha;Estandarte;02/10/2017;03/10/2017;13492
-248;5∫ ETA;Quinto Esquadr„o de Transporte AÈreo;Aeron·utica;Estandarte;20/09/2006;21/09/2006;9499
-249;5∫/8∫ GAv;Quinto Esquadr„o do Oitavo Grupo de AviaÁ„o;Aeron·utica;Estandarte;26/09/2000;27/09/2000;
-250;5∫/1∫ GCC;Quinto Esquadr„o do Primeiro Grupo de ComunicaÁıes e Controle;Aeron·utica;Estandarte;21/10/2011;24/10/2011;
-251;5∫ GAC Ap;Quinto Grupo de Artilharia de Campanha Autopropulsado;ExÈrcito;Estandarte;04/12/1987;21/10/2015;12832
-252;RSD;Regimento Santos-Dumont;ExÈrcito;Estandarte;12/10/1964;12/10/1964;1271
-253;SECIRM;Secretaria da Comiss„o Interministerial para Recursos do Mar do CMB;Marinha;Estandarte;21/10/2011;24/10/2011;
-254;SEFA;Secretaria de Economia e FinanÁas;Aeron·utica;Bandeira;16/09/1998;17/09/1998;7565
-255;SGM;Secretaria-Geral da Marinha;Marinha;Estandarte;;21/10/2015;12829
-256;;Secretariat of the Air Force;Outros;Estandarte;26/09/2005;27/09/2005;9483
-257;2∫ DE;Segunda Divis„o do ExÈrcito;ExÈrcito;Estandarte;05/10/2021;06/10/2021;14888
-258;2™ ELO;Segunda Esquadrilha de LigaÁ„o e ObservaÁ„o;Aeron·utica;Bandeira;28/09/1999;29/09/1999;7761
-259;II FAE;Segunda ForÁa AÈrea;Aeron·utica;Estandarte;28/09/1999;29/09/1999;7762
-260;2∫ BAvEx;Segundo Batalh„o de AviaÁ„o do ExÈrcito;ExÈrcito;Estandarte;25/08/1993;13/10/2016;13160
-261;2∫ BPC;Segundo Batalh„o de PolÌcia de Choque SP - Marechal Mascarenhas de Moraes;PolÌcia Militar;Estandarte;13/10/2020;14/10/2020;14576
-262;II COMAR;Segundo Comando AÈreo Regional;Aeron·utica;Estandarte;08/09/1989;22/09/1989;5486
-263;2∞/10∞ GAV;Segundo do DÈcimo Grupo de AviaÁ„o;Aeron·utica;Estandarte;01/09/1987;08/09/1987;5046
-264;2∞/2∞ GT;Segundo do Segundo Grupo de Transporte;Aeron·utica;Estandarte;23/09/1997;24/09/1997;7124
-265;2∞ EF;Segundo Esquadr„o de Fragatas;Marinha;Bandeira;16/09/1998;17/09/1998;7566
-266;HU-2;Segundo Esquadr„o de HelicÛpteros de Emprego Geral;Marinha;Estandarte;18/09/1986;13/10/2016;13159
-267;2∫ ETA;Segundo Esquadr„o de Transporte AÈreo;Aeron·utica;Estandarte;21/10/2011;24/10/2011;
-268;2∫/8∫ GAV;Segundo Esquadr„o do Oitavo Grupo de AviaÁ„o;Aeron·utica;Estandarte;25/09/2008;26/09/2008;10014
-269;2∫/1∫ GCC;Segundo Esquadr„o do Primeiro Grupo de ComunicaÁıes e Controle;Aeron·utica;Estandarte;21/10/2011;24/10/2011;
-270;2∫/5∫ GAV;Segundo Esquadr„o do Quinto Grupo de AviaÁ„o;Aeron·utica;Estandarte;24/10/2013;24/10/2013;12109
-271;2∞ RCC;Segundo Regimento de Carros de Combate;ExÈrcito;Bandeira;26/09/2001;27/09/2001;8366
-272;SRPV-SP;ServiÁo Regional de ProteÁ„o ao Voo de S„o Paulo;Aeron·utica;Estandarte;27/06/1947;16/10/2018;13506
-273;7∫ BEC;SÈtimo Batalh„o de Engenharia de Combate;ExÈrcito;Estandarte;17/10/2002;18/10/2002;8598
-274;VII COMAR;SÈtimo Comando AÈreo Regional;Aeron·utica;Estandarte;01/10/2003;02/10/2003;8988
-275;7∫ DN;SÈtimo Distrito Naval;Marinha;Estandarte;12/09/1990;;5716
-276;7∫/8∫ GAV;SÈtimo Esquadr„o do Oitavo Grupo de AviaÁ„o;Aeron·utica;Estandarte;29/09/2009;30/09/2009;10647
-277;6™ Div-Ex;Sexta Divis„o de ExÈrcito - Divis„o Volunt·rios da P·tria;ExÈrcito;Estandarte;01/09/1987;02/09/1987;5048
-278;VI FAE;Sexta ForÁa AÈrea;Aeron·utica;Estandarte;14/10/1992;15/10/1992;6222
-279;6∫ BgdIL;Sexto Batalh„o de Infantaria Leve - Regimento Ipiranga;ExÈrcito;Estandarte;17/10/2002;18/10/2002;8596
-280;VI COMAR;Sexto Comando AÈreo Regional;Aeron·utica;Bandeira;02/10/1978;03/10/1978;3118
-281;6∫ ETA;Sexto Esquadr„o de Transporte AÈreo;Aeron·utica;Estandarte;05/10/2021;06/10/2021;14890
-282;SBC;Sociedade Brasileira de Cartografia;Outros;Estandarte;17/10/2002;18/10/2002;8593
-283;STM;Superior Tribunal Militar;ForÁas Armadas;Bandeira;16/10/1957;23/10/1957;525
-284;FAE III;Terceira ForÁa AÈrea;Aeron·utica;Estandarte;20/09/2006;21/09/2006;9497
-285;3∫ B SUP;Terceiro Batalh„o de Suprimento do ExÈrcito;ExÈrcito;Bandeira;28/09/1999;29/09/1999;7763
-286;III COMAR;Terceiro Comando AÈreo Regional;Aeron·utica;Bandeira;15/09/1981;22/09/1981;3804
-287;EsqdHU-3;Terceiro Esquadr„o de HelicÛpteros de Emprego Geral;Marinha;Estandarte;31/01/1994;16/10/2018;13507
-288;3∫ ETA;TERCEIRO ESQUADR√O DE TRANSPORTE A…REO;Aeron·utica;Estandarte;;;
-289;3∞/10∞ GAV;Terceiro Esquadr„o do DÈcimo Grupo de AviaÁ„o;Aeron·utica;Estandarte;17/10/2002;18/10/2002;8595
-290;3∫/8∫ GAV;Terceiro Esquadr„o do Oitavo Grupo de AviaÁ„o;Aeron·utica;Estandarte;13/10/2020;14/10/2020;14574
-291;3∫/1∫ GCC;Terceiro Esquadr„o do Primeiro Grupo de ComunicaÁıes e Controle;Aeron·utica;Estandarte;30/09/2010;01/10/2010;11069
-292;3∫/7∫ GAV;Terceiro Esquadr„o do SÈtimo Grupo de AviaÁ„o;Aeron·utica;Estandarte;13/10/2020;14/10/2020;14575
-293;3∞ GAAA…;Terceiro Grupo de Artilharia AntiaÈrea;ExÈrcito;Estandarte;23/09/1993;15/10/1993;
-294;3∞ ROb 105-Ex;"Terceiro Regimento de Obuses 105 ""Regimento Mallet";ExÈrcito;Bandeira;25/10/1966;26/10/1966;1474
-295;TCB;Touring Club do Brasil;Outros;Estandarte;28/09/1999;29/09/1999;7764
-296;32∞ GAC;TrigÈsimo Segundo Grupo de Artilharia de Campanha - Bateria Caiena;ExÈrcito;Estandarte;06/09/2004;08/09/2004;9230
-297;UNIFA;Universidade da ForÁa AÈrea;Aeron·utica;Estandarte;26/09/2001;27/09/2001;
-298;20∞ GACL;VigÈsimo Grupo de Artilharia de Campanha Leve - Grupo Bandeirante;ExÈrcito;Estandarte;20/09/2006;21/09/2006;9502
-299;29∞ GAC-Ex;VigÈsimo Nono Grupo de Artilharia de Campanha - Grupo Humait·;ExÈrcito;Bandeira;05/10/1977;13/10/1977;
-300;21∞ GAC;VigÈsimo Primeiro Grupo de Artilharia de Campanha - Grupo Monte Bastione;ExÈrcito;Estandarte;20/09/2006;21/09/2006;9503
-301;"	Com5∫DN";COMANDO DO 5∫ DISTRITO NAVAL;Marinha;Estandarte;18/10/2024;;18403
-302;GAP-CO;GRUPAMENTO DE APOIO DE CANOAS;Aeron·utica;Estandarte;18/10/2024;;18404
-303;2∫/7∫ GAV;SEGUNDO ESQUADR√O DO S…TIMO GRUPO DE AVIA«√O;Aeron·utica;Estandarte;18/10/2024;;18405
-304;CENSIPAM;CENTRO GESTOR E OPERACIONAL DO SISTEMA DE PROTE«√O DA AMAZ‘NIA;Outros;Bandeira;18/10/2024;;18406
-305;DEC;DEPARTAMENTO DE ENGENHARIA E CONSTRU«√O;ExÈrcito;Estandarte;18/10/2024;;18402
-306;Com8∫DN;COMANDO DO 8∫ DISTRITO NAVAL;Marinha;Estandarte;22/10/2025;23/10/2025;18782
-307;CCOMGEX;COMANDO DE COMUNICA«’ES E GUERRA ELETR‘NICA DO EX…RCITO;ExÈrcito;Estandarte;22/10/2025;23/10/2025;18783
-308;CENCIAR;"CENTRO DE CONTROLE INTERNO DA AERON¡UTICA	";Aeron·utica;Estandarte;22/10/2025;23/10/2025;18787
-309;DIREF;DIRETORIA DE ECONOMIA E FINAN«AS DA AERON¡UTICA;Aeron·utica;Estandarte;22/10/2025;23/10/2025;18784
-310;CENDOC;CENTRO DE DOCUMENTA«√O DA AERON¡UTICA;Aeron·utica;Estandarte;22/10/2025;23/10/2025;18785
-311;SERINFRA-CO;SERVI«O REGIONAL DE INFRAESTRUTURA DA AERON¡UTICA DE CANOAS;Aeron·utica;Estandarte;22/10/2025;23/10/2025;18786
-312;Mus Ar;MUSEU DO AR - PORTUGAL;Outros;Estandarte;22/10/2025;23/10/2025;18788
+ORDEM DO M√âRITO AERON√ÅUTICO										
+										
+INS√çGNIAS - INSTITUI√á√ïES										
+										
+(Atualizada at√© Novembro de 2026)										
+										
+NR	SIGLA_ORG	DESCRI√á√ÉO	INSTITUIC√ÉO	CATEG	DT_INSIG	DT_DOU	REG			
+1	AFA	Academia da For√ßa A√©rea	Aeron√°utica	Estandarte	08/03/1946		134			
+2	AMAN	Academia Militar das Agulhas Negras	Ex√©rcito	Estandarte	02/10/1978	03/10/1978	3121			
+3	ANE	Academia Nacional de Engenharia	Outros	Estandarte	01/10/2003	02/10/2003				
+4		A√©ro-Club de France	Outros		07/06/2006	08/06/2006				
+5	AT-1	Aer√≥dromo de Tr√¢nsito n¬∫ 1	For√ßa A√©rea Portuguesa	Estandarte	23/10/2013	23/10/2013	12110			
+6	AirU-EUA	Air University dos Estados Unidos da Am√©rica	USAF	Bandeira	29/09/1966	30/09/1966	1426			
+7		Andrews Air Force Base	Outros	Estandarte	26/09/2005	27/09/2005	9484			
+8	ASPAER	Assessoria Parlamentar e de Rela√ß√µes Institucionais do Comandante da Aeron√°utica	Aeron√°utica	Estandarte	21/10/2022	21/10/2022	201			
+9	ADESG	Associa√ß√£o dos Diplomados da Escola Superior de Guerra	Outros	Estandarte	23/09/1997	24/09/1997	7128			
+10	BAAN	Base A√©rea de An√°polis	Aeron√°utica	Bandeira	02/10/1978	03/10/1978	3119			
+11	BABE	Base A√©rea de Bel√©m	Aeron√°utica	Estandarte	20/09/1984	25/09/1984	4471			
+12	BABV	Base A√©rea de Boa Vista	Aeron√°utica	Estandarte	20/09/2006	21/09/2006	9498			
+13	BABR	Base A√©rea de Bras√≠lia	Aeron√°utica	Estandarte	12/09/1990	11/10/1990	5818			
+14	BACG	Base A√©rea de Campo Grande	Aeron√°utica	Estandarte	20/09/1984	25/09/1984	4472			
+15	BACO	Base A√©rea de Canoas	Aeron√°utica	Estandarte	20/09/1983	27/09/1983	4152			
+16	BAFL	Base A√©rea de Florian√≥polis	Aeron√°utica	Estandarte	20/09/1984	25/09/1984	4473			
+17	BAFZ	Base A√©rea de Fortaleza	Aeron√°utica	Estandarte	20/09/1985	23/09/1985	4720			
+18	BAMN	Base A√©rea de Manaus	Aeron√°utica	Estandarte	01/10/2003	02/10/2003	8981			
+19	BANT	Base A√©rea de Natal	Aeron√°utica	Estandarte	05/10/2021	06/10/2021	14889			
+20	BAPV	Base A√©rea de Porto Velho	Aeron√°utica	Estandarte	17/05/1984					
+21	BARF	Base A√©rea de Recife	Aeron√°utica	Estandarte	20/09/1984	25/09/1984	4474			
+22	BASV	Base A√©rea de Salvador	Aeron√°utica	Estandarte	01/09/1987	02/09/1987	5044			
+23	BASC	Base A√©rea de Santa Cruz	Aeron√°utica	Bandeira	15/09/1982	01/10/1982	3909			
+24	BASM	Base A√©rea de Santa Maria	Aeron√°utica	Estandarte	08/09/1989	22/09/1989	5529			
+25	BAST	Base A√©rea de Santos	Aeron√°utica	Estandarte	18/09/1991	25/09/1991	5849			
+26	BASP	Base A√©rea de S√£o Paulo	Aeron√°utica	Estandarte	16/09/1986	22/09/1986	4812			
+27	BAGL	Base A√©rea do Gale√£o	Aeron√°utica	Bandeira	15/10/1963	16/10/1963	1191			
+28	BAAF	Base A√©rea dos Afonsos	Aeron√°utica	Bandeira	15/10/1963	16/10/1963	1192			
+29	BAENSPA	Base A√©rea Naval de S√£o Pedro da Aldeia	Marinha	Estandarte	14/10/1992	15/10/1992	6223			
+30	Ba1	Base A√©rea N¬∫ 1 (Ba1)	Exterior	Estandarte	01/10/1939	13/10/2016	13158			
+31	Ba Adm Ap/ 1 RM	Base de Administra√ß√£o e Apoio da 1¬™ Regi√£o Militar	Ex√©rcito	Estandarte	02/10/2017	03/10/2017	13491			
+32	BGP	Batalh√£o da Guarda Presidencial de Bras√≠lia	Ex√©rcito	Bandeira	18/10/1961	20/10/1961	813			
+33	11¬∞ RI	Batalh√£o de Infantaria de Montanha - Regimento Tiradentes	Ex√©rcito	Estandarte	01/10/2003	02/10/2003	8986			
+34	1¬∞ BIM	Batalh√£o de Infantaria Motorizado - Regimento Sampaio	Ex√©rcito	Estandarte	01/10/2003	02/10/2003	8984			
+35	Bibl-Ex	Biblioteca do Ex√©rcito	Ex√©rcito	Bandeira	25/11/1980	04/12/1980	3677			
+36	BdaAT-Ex	Brigada Aero-Terrestre	Ex√©rcito	Bandeira	19/10/1970	19/10/1970	1992			
+37	BdaAv-Ex	Brigada de Avia√ß√£o do Ex√©rcito	Ex√©rcito	Estandarte	14/10/1992	15/10/1992	6224			
+38	CGABEG	Casa Gerontol√≥gica de Aeron√°utica Brigadeiro Eduardo Gomes	Aeron√°utica	Estandarte	26/09/2005	27/09/2005	9473			
+39	CATRE	Centro de Aplica√ß√µes e Recompletamento de Equipagens	Aeron√°utica	Estandarte	20/09/1983	27/09/1983	4151			
+40	CECOMSAER	Centro de Comunica√ß√£o Social da Aeron√°utica	Aeron√°utica	Estandarte	30/09/2010	01/10/2010	11066			
+41	CENCIAR	"CENTRO DE CONTROLE INTERNO DA AERON√ÅUTICA	"	Aeron√°utica	Estandarte	22/10/2025	23/10/2025	18787			
+42	CCIEx	CENTRO DE CONTROLE INTERNO DO EX√âRCITO	Ex√©rcito	Estandarte	21/10/2026	23/10/2026	19100			
+43	CENDOC	CENTRO DE DOCUMENTA√á√ÉO DA AERON√ÅUTICA	Aeron√°utica	Estandarte	22/10/2025	23/10/2025	18785			
+44	CGNA	Centro de Gerenciamento da Navega√ß√£o A√©rea	Aeron√°utica	Estandarte	13/10/2020	14/10/2020	14573			
+45	CIAW	Centro de Instru√ß√£o Almirante Wandenkolk	Marinha	Estandarte	17/10/2002	18/10/2002	8599			
+46	CIAV	Centro de Instru√ß√£o de Avia√ß√£o do Ex√©rcito	Ex√©rcito		20/09/2006	21/09/2006	9501			
+47	CIAAR	Centro de Instru√ß√£o e Adapta√ß√£o da Aeron√°utica	Aeron√°utica	Estandarte	06/07/2005	22/10/2014	12476			
+48	CIAAN	Centro de Instru√ß√£o e Adestramento Aeronaval	Marinha	Estandarte	20/09/2006	21/09/2006	9500			
+49	CIPQD-Ex	Centro de Instru√ß√£o P√°ra-Quedista Gen Penha Brasil	Ex√©rcito	Estandarte	20/09/1985	23/09/1985	4722			
+50	CENIPA	Centro de Investiga√ß√£o e Preven√ß√£o de Acidentes Aeron√°uticos	Aeron√°utica	Estandarte	01/10/2003	02/10/2003	8982			
+51	CLBI	Centro de Lan√ßamento da Barreira do Inferno	Aeron√°utica	Estandarte	17/03/1972	21/10/2015	12833			
+52	CEMAL	Centro de Medicina Aeroespacial	Aeron√°utica	Estandarte	26/09/2001	27/09/2001	8364			
+53	CPORAER-SJ	Centro de Prepara√ß√£o de Oficiais da Reserva da Aeron√°utica	Aeron√°utica	Estandarte	20/08/1971	20/09/2019	14265			
+54	CENSIPAM	CENTRO GESTOR E OPERACIONAL DO SISTEMA DE PROTE√á√ÉO DA AMAZ√îNIA	Outros	Bandeira	18/10/2024		18406			
+55	CELOG	Centro Log√≠stico da Aeron√°utica	Aeron√°utica	Estandarte	04/10/2007	05/10/2007	9999			
+56	CTA	Centro T√©cnico Aeroespacial	Aeron√°utica	Estandarte	20/09/1983	27/09/1983	4150			
+57	CESUPA	Centro Universit√°rio do Par√°	Outros	Bandeira	01/10/1986	16/10/2018	13504			
+58	PISA	Cidade de Pisa	Rep√∫blica Italiana	Bandeira	11/09/1996	12/09/1996	7116			
+59	CID	Col√©gio Interamericano de Defesa	Exterior	Estandarte	02/10/2017	03/10/2017	13488			
+60	CMAv-BO	Col√©gio Militar de Avia√ß√£o da For√ßa A√©rea Boliviana	For√ßa A√©. Boliviana	Estandarte	08/06/1973	11/06/1973	2214			
+61	CMB	Col√©gio Militar de Bras√≠lia	Ex√©rcito	Estandarte	07/10/1994	13/10/1994				
+62	CMFZ	Col√©gio Militar de Fortaleza	Ex√©rcito	Estandarte	13/10/1969	23/10/1969	1890			
+63	CMPA	Col√©gio Militar de Porto Alegre	Ex√©rcito	Estandarte	09/10/1972	10/10/1972	2207			
+64	CMRJ	Col√©gio Militar do Rio de Janeiro	Ex√©rcito	Estandarte	14/10/1958	20/10/1958	584			
+65	ComAerComb	COMANDO A√âREO DE COMBATE N¬∫ 5	Outros	Estandarte	21/10/2026	23/10/2026	19097			
+66	COMAT	Comando Aerot√°tico	Aeron√°utica	Bandeira	15/09/1982	01/10/1982	3908			
+67	3¬™ DE	COMANDO DA 3¬™ DIVIS√ÉO DE EX√âRCITO	Ex√©rcito	Estandarte	21/10/2026	23/10/2026	19099			
+68	MAER	Comando da Aeron√°utica	Aeron√°utica	Estandarte	11/09/1996	12/09/1996	7119			
+69	CFAe-Mar	Comando da For√ßa Aeronaval	Marinha	Estandarte	20/09/1985	23/09/1985	4721			
+70	CMDO F. CT	Comando da For√ßa de Contra-Torpedeiros	Marinha	Estandarte	14/10/1992	15/10/1992	6265			
+71	COMDO FRAG	Comando da For√ßa de Fragatas	Marinha	Estandarte	21/09/1995	22/09/1995				
+72	COMFFE	Comando da For√ßa de Fuzileiros da Esquadra	Marinha	Estandarte	19/10/2012	22/10/2012	11795			
+73	5¬™ DE	Comando da Quinta Divis√£o do Ex√©rcito	Ex√©rcito	Estandarte	13/10/2020	14/10/2020	14572			
+74	CCOMGEX	COMANDO DE COMUNICA√á√ïES E GUERRA ELETR√îNICA DO EX√âRCITO	Ex√©rcito	Estandarte	22/10/2025	23/10/2025	18783			
+75	COMDABRA	Comando de Defesa Aeroespacial Brasileiro	Aeron√°utica	Estandarte	26/09/2001	27/09/2001	8363			
+76	COM	Comando de Opera√ß√µes Navais	Marinha	Estandarte	26/09/2000	27/09/2000				
+77	COTer	Comando de Opera√ß√µes Terrestres	Ex√©rcito	Estandarte	06/09/2004	08/09/2004	9231			
+78	CPesFN	COMANDO DE PESSOAL DE FUZILEIROS NAVAIS	Marinha	Estandarte	21/10/2026	23/10/2026	19098			
+79	"	Com5¬∫DN"	COMANDO DO 5¬∫ DISTRITO NAVAL	Marinha	Estandarte	18/10/2024		18403			
+80	Com8¬∫DN	COMANDO DO 8¬∫ DISTRITO NAVAL	Marinha	Estandarte	22/10/2025	23/10/2025	18782			
+81	1¬∞ DN-CMD	Comando do Primeiro Distrito Naval	Marinha	Estandarte	04/10/2007	05/10/2007	10002			
+82	COM4DN	Comando do Quarto Distrito Naval	Marinha	Estandarte	19/11/1945	16/10/2018	13503			
+83	COMTA	Comando do Transporte A√©reo	Aeron√°utica	Bandeira	09/10/1956	11/10/1956	399			
+84	COLOG	Comando Log√≠stico	Ex√©rcito	Estandarte	21/10/2022	21/10/2022	201			
+85	CMA	Comando Militar da Amaz√¥nia	Ex√©rcito	Estandarte	07/10/1994	13/10/1994				
+86	CML	Comando Militar do Leste	Ex√©rcito	Estandarte	29/09/2009	30/09/2009	10645			
+87	CMNE 	Comando Militar do Nordeste	Ex√©rcito	Estandarte	21/09/1995	22/09/1995				
+88	CMN	Comando Militar do Norte	Ex√©rcito	Estandarte	26/06/2013	21/09/2019	14264			
+89	CMO	Comando Militar do Oeste	Ex√©rcito	Estandarte	19/10/2012	22/10/2012	11796			
+90	CMP	Comando Militar do Planalto	Ex√©rcito	Bandeira	12/09/1990	11/10/1990	5815			
+91	CMSE	Comando Militar do Sudeste	Ex√©rcito	Estandarte	24/07/1946	16/10/2018	13502			
+92	CMS	Comando Militar do Sul 	Ex√©rcito	Estandarte	25/09/2008	26/09/2008	10013			
+93	CNB	Comando Naval de Bras√≠lia	Marinha	Estandarte	12/09/1990	11/10/1990				
+94	CCEsq-Mar	Comando-em-Chefe da Esquadra	Marinha	Estandarte	01/09/1987	02/09/1987	5047			
+95	CGPM-SP	Comando-Geral da Pol√≠cia Militar do Estado de S√£o Paulo	Pol√≠cia Militar	Estandarte		22/10/2014	12481			
+96	COMGAP	Comando-Geral de Apoio	Aeron√°utica	Estandarte	16/09/1998	17/09/1998	7567			
+97	COMGAR	Comando-Geral do Ar	Aeron√°utica	Estandarte	20/09/1984	25/09/1984	4470			
+98	COMGEP	Comando-Geral do Pessoal	Aeron√°utica	Estandarte	23/09/1993	15/10/1993				
+99	CABW	Comiss√£o Aeron√°utica Brasileira em Washington	Aeron√°utica	Estandarte	29/09/2009	30/09/2009	10646			
+100	CABE	Comiss√£o Aeron√°utica Brasileira na Europa	Aeron√°utica	Estandarte	30/09/2010	01/10/2010	11067			
+101	COPAC	Comiss√£o Coordenadora do Programa Aeronave de Combate	Aeron√°utica	Estandarte	19/10/2012	22/10/2012	11797			
+102	COMARA	Comiss√£o de Aeroportos da Regi√£o Amaz√¥nica	Aeron√°utica	Estandarte	17/10/2002	18/10/2002	8590			
+103	CDA	Comiss√£o de Desportos da Aeron√°utica	Aeron√°utica	Estandarte	02/10/2017	03/10/2017	13489			
+104	CISCEA	Comiss√£o de Implanta√ß√£o do Sistema de Controle do Espa√ßo A√©reo	Aeron√°utica	Estandarte	02/10/2017	03/10/2017	13487			
+105	CPO	Comiss√£o de Promo√ß√µes de Oficiais	Aeron√°utica	Estandarte	17/10/2002	18/10/2002	8591			
+106	COJAER	Consultoria Jur√≠dica do Minist√©rio da Aeron√°utica	Aeron√°utica	Estandarte	23/09/1997	24/09/1997	7123			
+107	CBRJ	Corpo de Bombeiros do Distrito Federal (RJ)	Bombeiros	Bandeira	09/10/1956	11/10/1956	397			
+108	CBM-MT	Corpo de Bombeiros Militar (MT)	CBM	Estandarte	04/10/2007	05/10/2007	10005			
+109	CBMPM-SP	Corpo de Bombeiros Militar da PM (SP)	CBM	Estandarte	04/10/2007	05/10/2007	10004			
+110	CBM-DF	Corpo de Bombeiros Militar do Distrito Federal (BR)	Bombeiros	Estandarte	01/09/1987	02/09/1987	5173			
+111	CFN	Corpo de Fuzileiros Navais	Marinha	Bandeira	11/10/1962	12/10/1962	901			
+112	10¬™ CiaECmb	D√©cima Companhia de Engenharia de Combate	Ex√©rcito	Estandarte	01/10/2003	02/10/2003	8985			
+113	12¬™ Bda Inf (AMV)	D√©cima Segunda Brigada de Infantaria Leve (Aerom√≥vel)	Ex√©rcito	Estandarte	26/09/2005	27/09/2005	9482			
+114	19¬∞ BC	D√©cimo Nono Batalh√£o de Ca√ßadores	Ex√©rcito	Estandarte	17/10/2002	18/10/2002	8597			
+115	11¬∫ GAAAe	D√©cimo Primeiro Grupo de Artilharia Antia√©rea	Ex√©rcito	Estandarte	16/09/1998	17/09/1998	7569			
+116	11¬∞ RCAV	D√©cimo Primeiro Regimento de Cavalaria	Ex√©rcito	Bandeira	15/10/1963	16/10/1963	1193			
+117	DAC	Departamento de Avia√ß√£o Civil	Aeron√°utica	Estandarte	11/09/1996	12/09/1996	7117			
+118	DCT	DEPARTAMENTO DE CI√äNCIA E TECNOLOGIA	Ex√©rcito	Estandarte	01/06/2005					
+119	DECEA	Departamento de Controle do Espa√ßo A√©reo	Aeron√°utica	Estandarte	26/09/2005	27/09/2005	9472			
+120	DECEX	Departamento de Educa√ß√£o e Cultura do Ex√©rcito	Ex√©rcito	Estandarte	21/10/2011	24/10/2011				
+121	DEC	DEPARTAMENTO DE ENGENHARIA E CONSTRU√á√ÉO	Ex√©rcito	Estandarte	18/10/2024		18402			
+122	DEPENS	Departamento de Ensino da Aeron√°utica	Aeron√°utica	Estandarte	05/09/1988	20/09/1988	5308			
+123	DEPED	Departamento de Pesquisas e Desenvolvimento	Aeron√°utica	Estandarte	23/09/1997	24/09/1997	7126			
+124	DCI	Dep√≥sito Central de Intend√™ncia	Aeron√°utica	Estandarte	16/09/1986	22/09/1986	4937			
+125	DARJ	Dep√≥sito de Aeron√°utica do Rio de Janeiro	Aeron√°utica	Estandarte	16/09/1986	22/09/1986	4813			
+126	DTCEA SM	Destacamento de Controle do Espa√ßo A√©reo de Santa Maria	Aeron√°utica	Estandarte	21/10/2011	24/10/2011				
+127	DIRAD	Diretoria de Administra√ß√£o da Aeron√°utica	Aeron√°utica	Estandarte	21/10/2026	23/10/2026	19101			
+128	DIRAP	Diretoria de Administra√ß√£o do Pessoal	Aeron√°utica	Estandarte	18/09/1991	25/09/1991				
+129	DIRAERMAR	Diretoria de Aeron√°utica da Marinha	Marinha	Estandarte	06/09/2004	08/09/2004	9232			
+130	DIREF	DIRETORIA DE ECONOMIA E FINAN√áAS DA AERON√ÅUTICA	Aeron√°utica	Estandarte	22/10/2025	23/10/2025	18784			
+131	DEPV	Diretoria de Eletr√¥nica e Prote√ß√£o ao V√¥o	Aeron√°utica	Estandarte	14/10/1992	15/10/1992	6264			
+132	DIRENG	Diretoria de Engenharia da Aeron√°utica	Aeron√°utica	Bandeira	18/08/1991	25/09/1991				
+133	DIRINT	Diretoria de Intend√™ncia da Aeron√°utica	Aeron√°utica	Estandarte	21/09/1995	22/09/1995				
+134	DIRMA	Diretoria de Material da Aeron√°utica	Aeron√°utica	Bandeira	18/09/1991	25/09/1991				
+135	DIRSA	Diretoria de Sa√∫de da Aeron√°utica	Aeron√°utica	Estandarte	07/10/1994	13/10/1994				
+136	DSM	Diretoria de Sa√∫de da Marinha	Marinha	Estandarte	30/09/2010	01/10/2010	11062			
+137	DGDNTM	Diretoria-Geral de Desenvolvimento Nuclear e Tecnol√≥gico da Marinha	Marinha	Estandarte	21/10/2022	21/10/2022	201			
+138	DGN	DIRETORIA-GERAL DE NAVEGA√á√ÉO	Marinha	Estandarte	18/06/1968					
+139	DGMM	Diretoria-Geral do Material da Marinha	Marinha	Estandarte	18/06/1968	22/09/2019	14263			
+140	DGPM	Diretoria-Geral do Pessoal da Marinha	Marinha	Estandarte	13/10/2020	14/10/2020	14571			
+141	DLR	DLR - Centro Aeroespacial Alem√£o	Governo da Alemanha	Bandeira	28/10/2013	28/10/2013	12111			
+142	EAer-Ex FR	Escola de Aeron√°utica do Ex√©rcito do Ar Franc√™s	Ex√©rcito Franc√™s	Bandeira	22/04/1949	23/04/1949	104			
+143	EAer-UR	Escola de Aeron√°utica do Uruguai	For√ßa A√©rea Uruguaia	Bandeira	03/09/1948		70			
+144	EAOAR	Escola de Aperfei√ßoamento de Oficiais da Aer.	Aeron√°utica	Estandarte	20/10/1967	20/10/1967	1654			
+145	EACA	Escola de Artilharia de Costa e Antia√©rea	Ex√©rcito	Estandarte	05/09/1988	20/09/1988	5439			
+146	ECEMAR	Escola de Comando e Estado-Maior da Aeron√°utica	Aeron√°utica	Bandeira	09/10/1956	11/10/1956	398			
+147	EEAR	Escola de Especialistas de Aeron√°utica	Aeron√°utica	Estandarte	12/10/1955	15/10/1955	365			
+148	ECEME	Escola de Estado-Maior do Ex√©rcito	Ex√©rcito	Estandarte	25/04/1949	06/05/1949	133			
+149	EGN	Escola de Guerra Naval	Marinha	Bandeira	09/10/1956	11/10/1956	396			
+150	EIEsp-Ex	Escola de Instru√ß√£o Especializada do Ex√©rcito	Ex√©rcito	Estandarte	16/09/1986	22/09/1986	4814			
+151	EOEIG	Escola de Oficiais-Esp. e de Infantaria de Guarda	Aeron√°utica	Estandarte	14/10/1958	20/10/1958	583			
+152	ESA	Escola de Sargentos das Armas	Ex√©rcito	Estandarte	23/09/1997	24/09/1997	7127			
+153	EMAv-CO	Escola Militar de Av "Marco Fidel Suarez" Col√¥mbia	Col√¥mbia	Estandarte	03/03/1970	04/03/1970	1908			
+154	EN	Escola Naval	Marinha	Estandarte	02/10/1978	03/10/1978	3120			
+155	EPCAR	Escola Preparat√≥ria de Cadetes do Ar	Aeron√°utica	Estandarte	14/10/1958	20/10/1958	582			
+156	ESD	Escola Superior de Defesa	Minist√©rio da Defesa	Estandarte	21/10/2022	21/10/2022	201			
+157	ESG	Escola Superior de Guerra	Ex√©rcito	Bandeira	16/10/1959	21/10/1959	635			
+158	EAS	Esquadr√£o Aeroterrestre de Salvamento	Aeron√°utica	Estandarte	04/10/2007	05/10/2007	10001			
+159	EDA	Esquadr√£o de Demonstra√ß√£o A√©rea	Aeron√°utica	Estandarte	06/09/2004	08/09/2004	9233			
+160	EMCFA	Estado-Maior Conjunto das For√ßas Armadas	Minist√©rio da Defesa	Estandarte	27/10/2013	27/10/2013	12105			
+161	EMAER	Estado-Maior da Aeron√°utica	Aeron√°utica	Bandeira	19/10/1970	19/10/1970	1910			
+162	EMA	Estado-Maior da Armada	Marinha	Estandarte	07/10/1994	13/10/1994				
+163	EMFA	Estado-Maior das For√ßas Armadas	EMFA	Bandeira	20/09/1983	27/09/1983	4149			
+164	EME	Estado-Maior do Ex√©rcito	Ex√©rcito	Estandarte	30/09/2010	01/10/2010	11063			
+165	FAYS	Fazenda da Aeron√°utica de Pirassununga	Aeron√°utica	Estandarte	12/11/1948	16/10/2018	13505			
+166	FAP	For√ßa A√©rea Paraguaia	Exterior	Estandarte	06/09/2004	08/09/2004	9234			
+167	FundOs	Funda√ß√£o Os√≥rio	Ex√©rcito	Estandarte	19/10/1965	20/10/1965	1419			
+168	GSI-PR	Gabinete de Seguran√ßa Institucional da Presid√™ncia da Rep√∫blica	Presid√™ncia	Estandarte	21/10/2022	21/10/2022	201			
+169	GABAER	Gabinete do Ministro da Aeron√°utica	Aeron√°utica	Estandarte	21/09/1995	22/09/1995				
+170	GONFAL√ÉO	Gonfal√£o da For√ßa Expedicion√°ria Brasileira na It√°lia	Exterior	Bandeira	30/09/2010	01/10/2010	11065			
+171	GONFAL√ÉO	Gonfal√£o do Primeiro Grupo de Avia√ß√£o de Ca√ßa (1¬∫ Gavca)	Exterior	Estandarte	18/12/1943	13/10/2016	13157			
+172	GAP BR	Grupamento de Apoio de Bras√≠lia	Aeron√°utica	Estandarte	25/09/2008	26/09/2008	10015			
+173	GAP-CO	GRUPAMENTO DE APOIO DE CANOAS	Aeron√°utica	Estandarte	18/10/2024		18404			
+174	GAP-DF	Grupamento de Apoio do Distrito Federal	Aeron√°utica	Estandarte	21/10/2026	23/10/2026	19102			
+175	GAP-RJ	GRUPAMENTO DE APOIO DO RIO DE JANEIRO	Aeron√°utica	Estandarte	21/10/2026	23/10/2026	19103			
+176	GptFNNA	Grupamento de Fuzileiros Navais de Natal	Marinha	Estandarte	01/10/2003	02/10/2003	8987			
+177	GTE	Grupo de Transporte Especial	Aeron√°utica	Estandarte	14/10/1992	15/10/1992	6226			
+178	GEIV	Grupo Especial de Inspe√ß√£o em V√¥o	Aeron√°utica	Estandarte	28/09/1999	29/09/1999	7759			
+179	HCA	Hospital Central da Aeron√°utica	Aeron√°utica	Estandarte	26/09/2005	27/09/2005	9474			
+180	HFA	HOSPITAL DAS FOR√áAS ARMADAS	Ex√©rcito	Estandarte	15/12/2017					
+181	HABE	Hospital de Aeron√°utica de Bel√©m	Aeron√°utica	Estandarte	21/09/1995	22/09/1995				
+182	HACO	Hospital de Aeron√°utica de Canoas	Aeron√°utica	Estandarte	20/09/1985	23/09/1985	4719			
+183	HARF	Hospital de Aeron√°utica de Recife	Aeron√°utica	Estandarte	11/09/1996	12/09/1996	7118			
+184	HASP	Hospital de Aeron√°utica de S√£o Paulo	Aeron√°utica	Estandarte	26/09/2005	27/09/2005	9475			
+185	HAAF	Hospital de Aeron√°utica dos Afonsos	Aeron√°utica	Estandarte	21/09/1995	22/09/1995				
+186	HFAG	Hospital de For√ßa A√©rea do Gale√£o	Aeron√°utica	Estandarte	26/09/2005	27/09/2005	9485			
+187	ICRJ	Iate Clube do Rio de Janeiro	Outros	Bandeira	25/03/1920	23/09/2019	14268			
+188	IAE	Instituto de Aeron√°utica e Espa√ßo	Aeron√°utica	Estandarte	25/10/2013	25/10/2013	12108			
+189	ILA	Instituto de Log√≠stica da Aeron√°utica	Aeron√°utica	Estandarte	02/10/2017	03/10/2017	13490			
+190	IPA	INSTITUTO DE PSICOLOGIA DA AERON√ÅUTICA	Aeron√°utica	Estandarte	25/11/1988					
+191	INCAER	Instituto Hist√≥rico-Cultural da Aeron√°utica	Aeron√°utica	Estandarte	16/02/1996	21/10/2015	12830			
+192	IME	Instituto Militar de Engenharia	Ex√©rcito	Estandarte	12/09/1990	11/10/1990	5817			
+193	ITA	Instituto Tecnol√≥gico de Aeron√°utica	Aeron√°utica	Estandarte	21/06/2007	22/10/2014	12478			
+194	JID	Junta Interamericana de Defesa	Exterior	Estandarte	30/03/1942	13/10/2016	13107			
+195	LAQFA	Laborat√≥rio Qu√≠mico-Farmac√™utico da Aeron√°utica	Aeron√°utica	Estandarte	26/09/2005	27/09/2005	9476			
+196	LDN	Liga da Defesa Nacional	Outros	Estandarte	04/10/2007	05/10/2007	10006			
+197	MINDEF	Minist√©rio da Defesa	Outros	Bandeira	20/09/2006	21/09/2006	9496			
+198	MMA	Minist√©rio da Marinha	Marinha	Estandarte	11/09/1996	12/09/1996	7120			
+199	MEX	Minist√©rio do Ex√©rcito	Ex√©rcito	Estandarte	11/09/1996	12/09/1996	7121			
+200	MisTir	Miss√£o Tiri√≥s	Civil/Religiosa	Bandeira	14/10/1992	15/10/1992	6227			
+201		Mus√©e de L'Air et de L'Espace	Outros		07/06/2006	08/06/2006				
+202	MUSAL	Museu Aeroespacial	Aeron√°utica	Estandarte	17/10/2002	18/10/2002	8592			
+203	Mus Ar	MUSEU DO AR - PORTUGAL	Outros	Estandarte	22/10/2025	23/10/2025	18788			
+204	NAelMG-Mar	Navio Aer√≥dromo Minas Gerais	Marinha	Bandeira	19/10/1970	19/10/1970	1991			
+205	NAESPAULO	Navio-Aer√≥dromo S√£o Paulo	Marinha	Estandarte	26/09/2005	27/09/2005	9479			
+206	9¬∫ Btl Eng Cmb	Nono Batalh√£o de Engenharia de Combate - Batalh√£o Carlos Camis√£o	Ex√©rcito	Estandarte	30/09/2010	01/10/2010	11064			
+207	9¬∫ DN	Nono Distrito Naval	Marinha	Estandarte	05/10/2021	06/10/2021	14887			
+208	NUHFAB	N√∫cleo do Hospital de For√ßa A√©rea de Bras√≠lia	Aeron√°utica	Estandarte	26/09/2005	27/09/2005	9477			
+209	OABR	Odontocl√≠nica de Aeron√°utica de Bras√≠lia	Aeron√°utica	Estandarte	26/09/2005	27/09/2005	9478			
+210	8¬∫ GAC Pqdt	Oitavo Grupo de Artilharia de Campanha Paraquedista	Ex√©rcito	Estandarte	29/10/2013	29/10/2013	12107			
+211	PIPAR	Pagadoria de Inativos e Pensionistas da Aeron√°utica	Aeron√°utica	Estandarte	19/10/2012	22/10/2012	11799			
+212	PAMA GL	Parque de Material Aero√°utico do Gale√£o	Aeron√°utica	Estandarte	09/09/2004	21/10/2015	12831			
+213	PAMA LS	Parque de Material Aeron√°utico de Lagoa Santa	Aeron√°utica	Estandarte	01/09/1987	02/09/1987	5045			
+214	PAMA RF	Parque de Material Aeron√°utico de Recife	Aeron√°utica	Estandarte	12/09/1990	11/10/1990	5819			
+215	PAMA SP	Parque de Material Aeron√°utico de S√£o Paulo	Aeron√°utica	Estandarte	08/09/1989	22/09/1989	5528			
+216	PAMA AF	Parque de Material Aeron√°utico dos Afonsos	Aeron√°utica	Estandarte	20/09/1985	23/09/1985	4717			
+217	PM-DF	Pol√≠cia Militar do Distrito Federal	Pol√≠cia Militar	Estandarte	23/09/1993	15/10/1993				
+218	PME-MG	Pol√≠cia Militar do Estado de Minas Gerais 	Pol√≠cia Militar	Estandarte	29/09/2009	30/09/2009	10650			
+219	PABR	Prefeitura de Aeron√°utica de Bras√≠lia 	Aeron√°utica	Estandarte	25/09/2008	26/09/2008	10017			
+220	PANT	Prefeitura de Aeron√°utica de Natal	Aeron√°utica	Estandarte	21/10/2022	21/10/2022	201			
+221	PARF	Prefeitura de Aeron√°utica de Recife	Aeron√°utica	Estandarte	26/06/1946	13/10/2016	13156			
+222	PASP	Prefeitura de Aeron√°utica de S√£o Paulo	Aeron√°utica	Estandarte	21/10/2022	21/10/2022	201			
+223	PAGL	Prefeitura de Aeron√°utica do Gale√£o	Aeron√°utica	Estandarte	14/03/1951	24/09/2019	14267			
+224	1¬™ ALADA	Primeira Ala de Defesa A√©rea	Aeron√°utica	Bandeira	02/10/1978	03/10/1978				
+225	1¬™ BAAAE	Primeira Brigada de Artilharia Anti A√©rea	Ex√©rcito	Estandarte	14/10/1992	15/10/1992	6225			
+226	I FAE	Primeira For√ßa A√©rea	Aeron√°utica	Estandarte	03/07/2006	22/10/2014	12477			
+227	1¬∫ B Com Sl	Primeiro Batalh√£o de Comunica√ß√£o de Selva	Ex√©rcito	Estandarte		22/10/2014	12480			
+228	1¬∞ BEngC-Ex	Primeiro Batalh√£o de Engenharia de Combate	Ex√©rcito	Bandeira	23/10/1963	23/10/1963	1199			
+229	1¬∞ BFE	Primeiro Batalh√£o de For√ßas Especiais	Ex√©rcito	Estandarte	04/10/2007	05/10/2007	10003			
+230	1 BFr-Ex	Primeiro Batalh√£o de Fronteiras	Ex√©rcito	Bandeira	15/10/1963	16/10/1963	1194			
+231	CINDACTA 1	Primeiro Centro Integrado de Defesa A√©rea e Controle de Trafego A√©reo	Aeron√°utica		23/09/1993	15/10/1993				
+232	I COMAR	Primeiro Comando A√©reo Regional	Aeron√°utica	Estandarte	18/09/1991	25/09/1991				
+233	ESQDVF-1	Primeiro Esquadr√£o de Avi√µes de Intercepta√ß√£o e Ataque	Marinha	Estandarte	26/09/2005	27/09/2005	9480			
+234	1¬∞ Esqd C Mec	Primeiro Esquadr√£o de Cavalaria Leve - Esquadr√£o Tenente Amaro	Ex√©rcito	Estandarte	26/09/2005	27/09/2005	9481			
+235	1¬∫ ESQDHS-1	Primeiro Esquadr√£o de Helic√≥pteros Anti-Submarinos	Marinha	Bandeira	25/09/2008	26/09/2008	10016			
+236	ESQDHU-1	Primeiro Esquadr√£o de Helic√≥pteros de Emprego Geral	Marinha	Estandarte	26/10/2013	26/10/2013	12106			
+237	ESQDHA-1	Primeiro Esquadr√£o de Helic√≥pteros de Esclarecimento e Ataque	Marinha	Estandarte	29/09/2009	30/09/2009	10648			
+238	EsqdHI-1	Primeiro Esquadr√£o de Helic√≥pteros de Instru√ß√£o	Marinha	Estandarte		22/10/2014	12479			
+239	1¬∞ ETA	Primeiro Esquadr√£o de Transporte A√©reo	Aeron√°utica	Estandarte	23/09/1997	24/09/1997	7125			
+240	1¬∞/10¬∞ GAV	Primeiro Esquadr√£o do D√©cimo Grupo de Avia√ß√£o	Aeron√°utica		23/09/1993	15/10/1993				
+241	1¬∞/14¬∞ GAV	Primeiro Esquadr√£o do D√©cimo Quarto Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	15/09/1982	01/10/1982	3910			
+242	1¬∞/15¬∞ GAV	Primeiro Esquadr√£o do D√©cimo Quinto Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	11/09/1996	12/09/1996	7122			
+243	1¬∞/16¬∞ GAV	Primeiro Esquadr√£o do D√©cimo Sexto Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	17/10/2002	18/10/2002	8594			
+244	1¬∞/8¬∞ GAv	Primeiro Esquadr√£o do Oitavo Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	06/09/2004	08/09/2004	9229			
+245	1¬∫/1¬∫ GCC	Primeiro Esquadr√£o do Primeiro Grupo de Comunica√ß√£o e Controle	Aeron√°utica	Estandarte	19/12/1950	13/10/2016	13161			
+246	1¬∞/1¬∞ GT	Primeiro Esquadr√£o do Primeiro Grupo de Transporte	Aeron√°utica	Estandarte	16/09/1998	17/09/1998	7568			
+247	1¬∞/4¬∞ GAV	Primeiro Esquadr√£o do Quarto Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	07/10/1994	13/10/1994				
+248	1¬∫/5¬∫ Gav	Primeiro Esquadr√£o do Quinto Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	05/10/1944	16/10/2018	13508			
+249	1¬∫/2¬∫ GT	Primeiro Esquadr√£o do Segundo Grupo de Transporte	Aeron√°utica		28/09/1999	29/09/1999	7760			
+250	1¬∫/7¬∫ GAv	Primeiro Esquadr√£o do S√©timo Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	26/09/2000	27/09/2000				
+251	1¬∞/6¬∞ GAV	Primeiro Esquadr√£o do Sexto Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	05/09/1988	20/09/1988	5438			
+252	1¬∫ GAAA	Primeiro Grupo de Artilharia Antia√©rea	Ex√©rcito	Estandarte	26/09/2000	27/09/2000				
+253	1¬∞ GAVCA	Primeiro Grupo de Avia√ß√£o de Ca√ßa	Aeron√°utica	Bandeira	09/10/1956	11/10/1956	400			
+254	GAVEMB1	Primeiro Grupo de Avia√ß√£o Embarcada	Aeron√°utica	Estandarte	15/09/1981	22/09/1981	3805			
+255	1¬∫ GCC	Primeiro Grupo de Comunica√ß√£o e Controle	Aeron√°utica	Estandarte	19/10/2012	22/10/2012	11798			
+256	1¬∞ GDA	Primeiro Grupo de Defesa A√©rea	Aeron√°utica	Estandarte	07/10/1994	13/10/1994				
+257	1¬∫ GTT	Primeiro Grupo de Transporte de Tropa	Aeron√°utica	Estandarte	22/01/1958	25/09/2019	14266			
+258	QGPM-GB	Quartel General da Pol√≠cia Militar da Guanabara	Pol√≠cia Militar	Bandeira	19/10/1970	19/10/1970	1993			
+259	IV COMAR	Quarto Comando A√©reo Regional	Aeron√°utica		23/09/1993	15/10/1993				
+260	4¬∫/1¬∫ GCC	Quarto Esquadr√£o do Primeiro Grupo de Comunica√ß√µes e Controle	Aeron√°utica	Estandarte	29/09/2009	30/09/2009	10649			
+261	4¬∫/7¬∫ GAV	Quarto Esquadr√£o do S√©timo Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	30/09/2010	01/10/2010	11068			
+262	V FATA	Quinta For√ßa A√©rea de Transporte A√©reo	Aeron√°utica	Estandarte	20/09/1985	23/09/1985	4718			
+263	V COMAR	Quinto Comando A√©reo Regional	Aeron√°utica	Estandarte	21/09/1995	22/09/1995				
+264	EsqdHU-5	Quinto Esquadr√£o de Helic√≥pteros de Emprego Geral	Marinha	Estandarte	02/10/2017	03/10/2017	13492			
+265	5¬∫ ETA	Quinto Esquadr√£o de Transporte A√©reo	Aeron√°utica	Estandarte	20/09/2006	21/09/2006	9499			
+266	5¬∫/8¬∫ GAv	Quinto Esquadr√£o do Oitavo Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	26/09/2000	27/09/2000				
+267	5¬∫/1¬∫ GCC	Quinto Esquadr√£o do Primeiro Grupo de Comunica√ß√µes e Controle	Aeron√°utica	Estandarte	21/10/2011	24/10/2011				
+268	5¬∫ GAC Ap	Quinto Grupo de Artilharia de Campanha Autopropulsado	Ex√©rcito	Estandarte	04/12/1987	21/10/2015	12832			
+269	RSD	Regimento Santos-Dumont	Ex√©rcito	Estandarte	12/10/1964	12/10/1964	1271			
+270	SECIRM	Secretaria da Comiss√£o Interministerial para Recursos do Mar do CMB	Marinha	Estandarte	21/10/2011	24/10/2011				
+271	SEFA	Secretaria de Economia e Finan√ßas	Aeron√°utica	Bandeira	16/09/1998	17/09/1998	7565			
+272	SGM	Secretaria-Geral da Marinha	Marinha	Estandarte		21/10/2015	12829			
+273		Secretariat of the Air Force	Outros	Estandarte	26/09/2005	27/09/2005	9483			
+274	2¬∫ DE	Segunda Divis√£o do Ex√©rcito	Ex√©rcito	Estandarte	05/10/2021	06/10/2021	14888			
+275	2¬™ ELO	Segunda Esquadrilha de Liga√ß√£o e Observa√ß√£o	Aeron√°utica	Bandeira	28/09/1999	29/09/1999	7761			
+276	II FAE	Segunda For√ßa A√©rea	Aeron√°utica	Estandarte	28/09/1999	29/09/1999	7762			
+277	2¬∫ BAvEx	Segundo Batalh√£o de Avia√ß√£o do Ex√©rcito	Ex√©rcito	Estandarte	25/08/1993	13/10/2016	13160			
+278	2¬∫ BPC	Segundo Batalh√£o de Pol√≠cia de Choque SP - Marechal Mascarenhas de Moraes	Pol√≠cia Militar	Estandarte	13/10/2020	14/10/2020	14576			
+279	II COMAR	Segundo Comando A√©reo Regional	Aeron√°utica	Estandarte	08/09/1989	22/09/1989	5486			
+280	2¬∞/10¬∞ GAV	Segundo do D√©cimo Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	01/09/1987	08/09/1987	5046			
+281	2¬∞/2¬∞ GT	Segundo do Segundo Grupo de Transporte	Aeron√°utica	Estandarte	23/09/1997	24/09/1997	7124			
+282	2¬∞ EF	Segundo Esquadr√£o de Fragatas	Marinha	Bandeira	16/09/1998	17/09/1998	7566			
+283	HU-2	Segundo Esquadr√£o de Helic√≥pteros de Emprego Geral	Marinha	Estandarte	18/09/1986	13/10/2016	13159			
+284	2¬∫ ETA	Segundo Esquadr√£o de Transporte A√©reo	Aeron√°utica	Estandarte	21/10/2011	24/10/2011				
+285	2¬∫/8¬∫ GAV	Segundo Esquadr√£o do Oitavo Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	25/09/2008	26/09/2008	10014			
+286	2¬∫/1¬∫ GCC	Segundo Esquadr√£o do Primeiro Grupo de Comunica√ß√µes e Controle	Aeron√°utica	Estandarte	21/10/2011	24/10/2011				
+287	2¬∫/5¬∫ GAV	Segundo Esquadr√£o do Quinto Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	24/10/2013	24/10/2013	12109			
+288	2¬∫/7¬∫ GAV	SEGUNDO ESQUADR√ÉO DO S√âTIMO GRUPO DE AVIA√á√ÉO	Aeron√°utica	Estandarte	18/10/2024		18405			
+289	2¬∞ RCC	Segundo Regimento de Carros de Combate	Ex√©rcito	Bandeira	26/09/2001	27/09/2001	8366			
+290	SERINFRA-CO	SERVI√áO REGIONAL DE INFRAESTRUTURA DA AERON√ÅUTICA DE CANOAS	Aeron√°utica	Estandarte	22/10/2025	23/10/2025	18786			
+291	SRPV-SP	Servi√ßo Regional de Prote√ß√£o ao Voo de S√£o Paulo	Aeron√°utica	Estandarte	27/06/1947	16/10/2018	13506			
+292	7¬∫ BEC	S√©timo Batalh√£o de Engenharia de Combate	Ex√©rcito	Estandarte	17/10/2002	18/10/2002	8598			
+293	VII COMAR	S√©timo Comando A√©reo Regional	Aeron√°utica	Estandarte	01/10/2003	02/10/2003	8988			
+294	7¬∫ DN	S√©timo Distrito Naval	Marinha	Estandarte	12/09/1990		5716			
+295	7¬∫/8¬∫ GAV	S√©timo Esquadr√£o do Oitavo Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	29/09/2009	30/09/2009	10647			
+296	6¬™ Div-Ex	Sexta Divis√£o de Ex√©rcito - Divis√£o Volunt√°rios da P√°tria	Ex√©rcito	Estandarte	01/09/1987	02/09/1987	5048			
+297	VI FAE	Sexta For√ßa A√©rea	Aeron√°utica	Estandarte	14/10/1992	15/10/1992	6222			
+298	6¬∫ BgdIL	Sexto Batalh√£o de Infantaria Leve - Regimento Ipiranga	Ex√©rcito	Estandarte	17/10/2002	18/10/2002	8596			
+299	VI COMAR	Sexto Comando A√©reo Regional	Aeron√°utica	Bandeira	02/10/1978	03/10/1978	3118			
+300	6¬∫ ETA	Sexto Esquadr√£o de Transporte A√©reo	Aeron√°utica	Estandarte	05/10/2021	06/10/2021	14890			
+301	SBC	Sociedade Brasileira de Cartografia	Outros	Estandarte	17/10/2002	18/10/2002	8593			
+302	STM	Superior Tribunal Militar	For√ßas Armadas	Bandeira	16/10/1957	23/10/1957	525			
+303	FAE III	Terceira For√ßa A√©rea	Aeron√°utica	Estandarte	20/09/2006	21/09/2006	9497			
+304	3¬∫ B SUP	Terceiro Batalh√£o de Suprimento do Ex√©rcito	Ex√©rcito	Bandeira	28/09/1999	29/09/1999	7763			
+305	III COMAR	Terceiro Comando A√©reo Regional	Aeron√°utica	Bandeira	15/09/1981	22/09/1981	3804			
+306	EsqdHU-3	Terceiro Esquadr√£o de Helic√≥pteros de Emprego Geral	Marinha	Estandarte	31/01/1994	16/10/2018	13507			
+307	3¬∫ ETA	TERCEIRO ESQUADR√ÉO DE TRANSPORTE A√âREO	Aeron√°utica	Estandarte						
+308	3¬∞/10¬∞ GAV	Terceiro Esquadr√£o do D√©cimo Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	17/10/2002	18/10/2002	8595			
+309	3¬∫/8¬∫ GAV	Terceiro Esquadr√£o do Oitavo Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	13/10/2020	14/10/2020	14574			
+310	3¬∫/1¬∫ GCC	Terceiro Esquadr√£o do Primeiro Grupo de Comunica√ß√µes e Controle	Aeron√°utica	Estandarte	30/09/2010	01/10/2010	11069			
+311	3¬∫/7¬∫ GAV	Terceiro Esquadr√£o do S√©timo Grupo de Avia√ß√£o	Aeron√°utica	Estandarte	13/10/2020	14/10/2020	14575			
+312	3¬∞ GAAA√â	Terceiro Grupo de Artilharia Antia√©rea	Ex√©rcito	Estandarte	23/09/1993	15/10/1993				
+313	3¬∞ ROb 105-Ex	Terceiro Regimento de Obuses 105 "Regimento Mallet	Ex√©rcito	Bandeira	25/10/1966	26/10/1966	1474			
+314	TCB	Touring Club do Brasil	Outros	Estandarte	28/09/1999	29/09/1999	7764			
+315	32¬∞ GAC	Trig√©simo Segundo Grupo de Artilharia de Campanha - Bateria Caiena	Ex√©rcito	Estandarte	06/09/2004	08/09/2004	9230			
+316	UNIFA	Universidade da For√ßa A√©rea	Aeron√°utica	Estandarte	26/09/2001	27/09/2001				
+317	20¬∞ GACL	Vig√©simo Grupo de Artilharia de Campanha Leve - Grupo Bandeirante	Ex√©rcito	Estandarte	20/09/2006	21/09/2006	9502			
+318	29¬∞ GAC-Ex	Vig√©simo Nono Grupo de Artilharia de Campanha - Grupo Humait√°	Ex√©rcito	Bandeira	05/10/1977	13/10/1977				
+319	21¬∞ GAC	Vig√©simo Primeiro Grupo de Artilharia de Campanha - Grupo Monte Bastione	Ex√©rcito	Estandarte	20/09/2006	21/09/2006	9503			
